@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>__SITE_URL__YTMLegacy.ipa</string>
+					<string>https://bakk987.github.io/ytmlegacy/YTMLegacy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>__SITE_URL__images/icon-57.png</string>
+					<string>https://bakk987.github.io/ytmlegacy/images/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>__SITE_URL__images/icon-512.png</string>
+					<string>https://bakk987.github.io/ytmlegacy/images/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
