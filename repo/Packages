@@ -1,0 +1,17 @@
+Package: com.legacyapps.ytmlegacy
+Name: YTM Legacy
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A YouTube Music player for iOS 5 to 10: search, radio, background playback and your own playlists.
+Maintainer: Kirba
+Author: Kirba
+Section: Multimedia
+Depends: firmware (>= 5.0), uikittools
+Icon: file:///Applications/YTMLegacy.app/Icon@2x.png
+Installed-Size: 927
+Filename: debs/com.legacyapps.ytmlegacy_1.4_iphoneos-arm.deb
+Size: 529912
+MD5sum: de3a96f229f161dc1caed34d8281bc0c
+SHA1: 2215e8e4fdf7913cb18e6f7969e114973eb687c2
+SHA256: ec329975144f0399e14791a459e40498f7756f3cb8c8bcb0aaaeb5d508cb1978
+
